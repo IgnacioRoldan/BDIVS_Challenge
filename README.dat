@@ -11,3 +11,8 @@ Combining sparse coding with spatial max pooling, the algorithm leads to state-o
 Run main.m to see how the functions are called. 
 
 For any questions, feel free to email me at jyang29@ifp.uiuc.edu.
+
+
+*****************************************************************
+
+In order to use the Kaggle dataset for BDIVS challenge, the folder images (at leat one of them) should be uncompressed in image/Kaggle (you can already find the file "Data_Entry_2017.cs" there)
